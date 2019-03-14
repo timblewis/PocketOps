@@ -1,5 +1,3 @@
-import random
-
 epsilon = 0.000001
 scores = [0.0]*39366 #2*3^9
 board = 9*[1]
