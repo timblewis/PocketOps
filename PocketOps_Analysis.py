@@ -313,7 +313,7 @@ while(command!="Q"):
         print("U: undoes the last move")
         print("Xa1: places an X at a1")
         print("Oa1: places an O at a1")
-        print("S: switch current player")
+        print("S: switches current player")
     elif command == "R":
         board = 9*[0]
         turn = 0
